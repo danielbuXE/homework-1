@@ -2,6 +2,7 @@
 
 This homework assignment covers the content that we discussed in class up until and including February 5.
 
+Hello!
 
 ## GitHub
 
