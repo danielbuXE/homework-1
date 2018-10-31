@@ -95,39 +95,40 @@ Please edit this file to add your answers to the following questions.
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? :4000
+* What is the path? admin?
+* What are the query parameters? none 
+* What is the fragment? none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? www.lehman.edu
+* What is the port number? :80
+* What is the path? /academics/mathematics-computer-science/index.php
+* What are the query parameters? None
+* What is the fragment? None
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? en.wikipedia.org
+* What is the port number? 443
+* What is the path? /wiki/Greek_alphabet#Glyph_variants
+* What are the query parameters? None
+* What is the fragment? #Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Stands for Secure
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? Hyper Text Transfer Protocol Secure (https)
+is the secure version of the protocol http.
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? Yes, it is more secure than http
 
 
 ## Webpages
@@ -140,32 +141,30 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
-
+A webpage is a document that can be written in HTML, CSS, JavaScript that is accessible using the internet by using a browser like google chrome or FireFox and many others. 
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
-
+I like reddit, because the design is good in the way you get a small picture to left and the title to the right organized in list form. Also another major win for the website is that there is a dark mode, I hate bright websites.
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
-
+I hate slack, why do I have to login eveytime I have to access a different server. WHO DOES THIS. Also there is no dark mode in the app or the website. I had to change it in the files to get a dark mode.
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
-
+W3schools is great for CSS and HTML
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag? We are covering HTML 5
+<!DOCTYPE html>
 
 What is XML?
+eXtensible Markup Language is a languaged designed to store and transport data but it doesn't do anything. Someone must write a piece of sofware to send, receive, store or display it the data writen in XML.
 
-What is XHTML?
-
+What is XHTML
+EXtensible HyperText Markup Language. It is very similar to HTML but way more strict in the sense that you can't make mistakes when writing HTML. For example, DOCTYPE is mandatory, elements must be properly nested and always must be closed and typed in lower case.
 
 ### 15. HTML
 
@@ -176,7 +175,7 @@ Are HTML files interpreted or executed?
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? Version 9 and beyond.
 
 
 ### 17. HTML Validity
