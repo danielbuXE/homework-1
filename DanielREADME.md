@@ -180,51 +180,52 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag? Version 9
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML? Visual Studio Code is a compiler and it tell you if have written valid HTML
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development?
+What does "Accessibility" mean in the context of web development? It is how easy is to use a  website for all people, regardless of disability type or severity of impairment
 
-What types of people does accessibility concern?
+What types of people does accessibility concern? It is more concernting for people with different kinds of accessibility
 
-What is one tool you can use to verify the accessibility of your websites?
+What is one tool you can use to verify the accessibility of your websites? https://achecker.ca/checker/index.php
 
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? The head tag is a container for metadata like, <styles> <title> <meta> <script>
 
-What is the `<body>` tag for?
+What is the `<body>` tag for? it is the container where the main document body goes.
 
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
+What's the difference between `<head>`, `<header>`, and heading tags? <head> provides general information about the document while the <header> is a group for introduction or navigational aids, it might also contain heading elements like a logo and a search form. 
 
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? <table> , <th> , <tr> , <td> , <caption> , <colgroup> , <col> , <thead> , <tbody> , <tfoot>. 
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
 
+<hr> <br> <img> <embed> 
 
 ### 23. Links
 
 How do you make a link open in a new window?
-
+<a href="https://whatever" target="_blank">Some Website</a
 
 ### 24. IFRAME
 
-What is an IFRAME?
-
+What is an IFRAME? <iframe> is used to display a web page inside a web page.
+  
 What are IFRAMEs commonly used for?
-
+ To have youtube videos inside your web page or connect some social medias inside your web page
 
 ## Writing Code
 
