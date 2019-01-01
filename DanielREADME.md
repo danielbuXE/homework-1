@@ -194,35 +194,35 @@ What is one tool you can use to verify the accessibility of your websites? https
 
 ### 19. head / body
 
-What is the `<head>` tag for? The head tag is a container for metadata like, <styles> <title> <meta> <script>
+What is the `<head>` tag for? The head tag is a container for metadata like, `<styles>` `<title>` `<meta>` `<script>`
 
 What is the `<body>` tag for? it is the container where the main document body goes.
 
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags? <head> provides general information about the document while the <header> is a group for introduction or navigational aids, it might also contain heading elements like a logo and a search form. 
+What's the difference between `<head>`, `<header>`, and heading tags? `<head>` provides general information about the document while the `<header>` is a group for introduction or navigational aids, it might also contain heading elements like a logo and a search form. 
 
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? <table> , <th> , <tr> , <td> , <caption> , <colgroup> , <col> , <thead> , <tbody> , <tfoot>. 
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>` , `<th>` , `<tr>` , `<td>` , `<caption>` , `<colgroup>` , `<col>` , `<thead>` , `<tbody>` , `<tfoot>`. 
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
 
-<hr> <br> <img> <embed> 
+`<hr>` `<br>` `<img>` `<embed>` 
 
 ### 23. Links
 
 How do you make a link open in a new window?
-<a href="https://whatever" target="_blank">Some Website</a>
+`<a href="https://whatever" target="_blank">Some Website</a>`
 
 ### 24. IFRAME
 
-What is an IFRAME? <iframe> is used to display a web page inside a web page.
+What is an IFRAME? `<iframe>` is used to display a web page inside a web page.
   
 What are IFRAMEs commonly used for?
  To have youtube videos inside your web page or connect some social medias inside your web page
