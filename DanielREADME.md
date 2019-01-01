@@ -218,7 +218,7 @@ Which tags don't have a closing pair (e.g. `<br>`)?
 ### 23. Links
 
 How do you make a link open in a new window?
-<a href="https://whatever" target="_blank">Some Website</a
+<a href="https://whatever" target="_blank">Some Website</a>
 
 ### 24. IFRAME
 
